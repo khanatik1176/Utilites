@@ -1,0 +1,12 @@
+git status
+
+git add . 
+
+git commit -m " " 
+
+git push origin (Branch Name)
+
+
+git fetch origin
+
+git pull origin (Branch Name)
